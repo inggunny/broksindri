@@ -1,2 +1,2 @@
 # broksindri
-Master tesis proyect, by Biasotti Victor, Mendoza University
+Master tesis project, by Biasotti Victor, Mendoza University

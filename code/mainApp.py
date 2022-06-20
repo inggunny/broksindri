@@ -27,7 +27,7 @@ f.close()
 
 print(t0)
 
-t1 = paragunny.lectura('/var/log/nginx/access.log',
+t1 = logReader.lectura('/var/log/nginx/access.log',
                        '/var/log/nginx/access.log.1',
                        '/home/victor/tesis/python/current_line.txt')
 

@@ -1,0 +1,2 @@
+esta branch es para backups del codigo, en main continua la evolucion del codigo con cambio para la implementacion por docker.
+05 02 2023

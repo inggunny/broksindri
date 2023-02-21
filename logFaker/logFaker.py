@@ -16,9 +16,9 @@ fig = plt.figure()
 ax = fig.add_subplot(1, 1, 1)
 xs = []
 ys = []
-PuertoSerie = serial.Serial("COM5", 9600)
+PuertoSerie = serial.Serial("/dev/ttyACM0", 9600)
 
-path = "C:/Users/elbia/Desktop/valores.txt" #Path donde escribe los valores al final
+path = "/home/victor/tesis/valores.txt" #Path donde escribe los valores al final
 
 
 # Función llamada periódicamente por la main

@@ -1,2 +1,2 @@
 # broksindri
-Master tesis project, by Biasotti Victor, Mendoza University
+MSc thesis project by Biasotti, Victor. University of Mendoza
